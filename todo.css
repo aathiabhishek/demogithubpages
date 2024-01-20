@@ -1,0 +1,17 @@
+/* Basic styling for the To-Do app container */
+#todoApp {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Styling for the tasks list, removing default list styling */
+#tasksList {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styling for each task */
+.task {
+    margin-bottom: 10px;
+}
